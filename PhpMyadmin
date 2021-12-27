@@ -1,0 +1,10 @@
+==== Instalasi PhpMyadmin ====
+
++ sudo apt update
++ sudo apt install phpmyadmin
+
+==== Run PhpMyadmin ====
+
++ localhost/phpmyadmin
+
+==== Thank you very much :) ====
